@@ -1,0 +1,75 @@
+# Large files excluded even if they end up in tracked-looking dirs
+*.exe
+*.pse
+*.xvg
+*.xtc
+*.trr
+*.g96
+*.pdb
+*.pdbqt
+*.zip
+*.tar
+*.gz
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.sqlite
+*.sqlite3
+*.db
+*.joblib
+*.pkl
+*.h5
+*.ckpt
+
+# Large structural data directories
+data/
+structures/
+models/
+ml_selected_pdbqt/
+docking_results/
+validation/
+bin/
+
+# Docking / MD results
+*.pdbqt
+*_docked.pdbqt
+*.sdf
+*.sdf.gz
+*.log
+*.out
+*.crd
+
+# Documentation / Office artifacts (large, non-code)
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.pdf
+*.odt
+*.fodt
+
+# Temp / lock files created by office apps
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# OS / editor junk
+Thumbs.db
+Desktop.ini
+*~
+.DS_Store
+.idea/
+.vscode/settings.json
+
+# Python cache
+__pycache__/
+*.pyc
+.pyc
+
+# Local config / secrets
+.env
+config.local.yaml
+credentials.json
+

@@ -1,0 +1,4 @@
+Role,Compound,Vina_Binding_Affinity_kcal_mol,Heavy_Atom_Count,Docking_Ligand_Efficiency_kcal_mol_per_heavy_atom,SMILES
+Top hit 1,Lantadene_A,-10.142,33,0.3073,CC(C)=CC(=O)O[C@H]1CC2(C)C(=CCC3C4(C)CCC(C)(C(=O)O)CC4CCC32C)C1(C)C
+Top hit 2,Rutin,-9.249,43,0.2151,CC1OC(OCC2OC(Oc3c(-c4ccc(O)c(O)c4)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O
+Control,PT70_Control_Inhibitor,-7.514,20,0.3757,CCCCCc1ccc(Oc2ccccc2C)c(O)c1

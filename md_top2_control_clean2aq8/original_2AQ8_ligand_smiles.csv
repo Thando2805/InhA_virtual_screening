@@ -1,0 +1,7 @@
+﻿"Compound","Original_Input_PDBQT","SMILES"
+"7-Methyljuglone","ligands/original_inputs/7-Methyljuglone.pdbqt","Cc1cc(O)c2c(c1)C(=O)C=CC2=O"
+"Guaijaverin","ligands/original_inputs/Guaijaverin.pdbqt","O=c1c(OC2OC(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12"
+"Lantadene_A","ligands/original_inputs/Lantadene_A.pdbqt","CC(C)=CC(=O)O[C@H]1CC2(C)C(=CCC3C4(C)CCC(C)(C(=O)O)CC4CCC32C)C1(C)C"
+"PT70_Control_Inhibitor","ligands/original_inputs/PT70_Control_Inhibitor.pdbqt","CCCCCc1ccc(Oc2ccccc2C)c(O)c1"
+"Quercitrin","ligands/original_inputs/Quercitrin.pdbqt","CC1OC(Oc2c(-c3ccc(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O"
+"Rutin","ligands/original_inputs/Rutin.pdbqt","CC1OC(OCC2OC(Oc3c(-c4ccc(O)c(O)c4)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O"

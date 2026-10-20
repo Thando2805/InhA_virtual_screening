@@ -1,0 +1,26 @@
+Compound_Name,Plant_Source,SMILES,Inhibition_Probability,ML_Prediction
+PT70 (Control Inhibitor),Synthetic Control,CCCCCC1=CC(=C(C=C1)OC2=CC=CC=C2C)O,0.9445837,1
+Rutin,Ficus ingens,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,0.62731904,1
+Guaijaverin,Psidium guajava,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(O4)O)O)O)O)O,0.5972983,1
+Quercitrin,Piliostigma thonningii,CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O,0.56004554,1
+7-Methyljuglone,Euclea crispa,CC1=CC2=C(C(=O)C=CC2=O)C(=C1)O,0.53385687,1
+Lantadene A,Lantana camara,CC(=C/C(=O)O[C@H]1CC2(C)C(=CCC3C2(C)CCC4C3(C)CCC(C)(C(=O)O)C4)C1(C)C)/C,0.51770294,1
+Amentoflavone,Searsia pyroides,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)C4=C(C=CC(=C4)C5=CC(=O)C6=C(O5)C=C(C=C6O)O)O)O,0.40542063,0
+Quercetin,Myrothamnus flabellifolius,O=C1C(O)=C(c2ccc(O)c(O)c2)Oc3cc(O)cc(O)c13,0.40510398,0
+Kaempferol,Pellaea sp.,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,0.40510398,0
+Arbutin,Myrothamnus flabellifolius,C1=CC(=CC=C1O)OC2C(C(C(C(O2)CO)O)O)O,0.3775958,0
+Limonene,Citrus limon,CC1=CCC(CC1)C(=C)C,0.34643447,0
+Sarsasapogenin,Asparagus africanus,CC1CCC2C(C1)C3C(O2)CC4C3(CCC5C4CC=C6CC(O)CCC56C)C,0.31720957,0
+Lupeol,Ficus sycomorus,CC(=C)[C@H]1CC[C@@]2(C)[C@@H]1CC[C@]3(C)[C@@H]2CC=C4[C@@H]3C(C)(C)[C@@H](O)CC4,0.2998203,0
+Neorautenanol,Dalbergia melanoxylon,CC1(C)C=CC2=C(O1)C=CC3=C2C(C4=C(O3)C=CC(=C4)O)O,0.2919915,0
+Verbascoside,Lippia javanica,O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]2[C@@H](O)[C@H](O[C@@H](O[C@H]3[C@@H](O)[C@H](O)[C@@H](O)O3)C2)OCCOc4ccc(O)c(O)c4,0.26740658,0
+Carissone,Carissa edulis / C. bispinosa,CC1=CC(=O)[C@@H]2C[C@@H](C(C)(C)O)[C@H](C)[C@@]2(C)C1,0.21386124,0
+Terpineol,Vitex payos,CC1=CCC(CC1)C(C)(C)O,0.17510994,0
+Beta-Sitosterol,Coleochloa setifera,CCC(CC(C)C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,0.16825862,0
+Camphor,Lippia javanica,CC1(C)C2CCC1(C)C(=O)C2,0.15396245,0
+Securinine,Flueggea virosa,O=C1C=C2[C@@H]3N4CCC[C@H]4[C@@H](C1)C2=CO3,0.14239222,0
+Piperitenone,Lippia javanica,CC1=CC(=O)C(=C(C)C)CC1,0.14154352,0
+Stigmasterol,Annona stenophylla,CCC(C=CC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C)C(C)C,0.123713344,0
+Ursolic Acid,Syzygium cordatum,CC1CCC2(CCC3(C(=CCC4C3(C)CCC5C4(C)CCC(O)C5(C)C)C2C1C)C)C(=O)O,0.118443064,0
+"Eucalyptol (1,8-Cineole)",Eucalyptus camaldulensis,CC1(C2CCC(O1)(CC2)C)C,0.11831984,0
+Friedelin,Bridelia mollis,CC1CC2(CCC3(C(=CCC4C3(C)CCC5C4(C)CCC(=O)C5(C)C)C2C1C)C)C,0.10959287,0

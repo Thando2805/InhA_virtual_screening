@@ -1,0 +1,23 @@
+========================================================================
+InhA Virtual Screening â€” Results Summary
+========================================================================
+
+TOP 3 DOCKING HITS
+----------------------------------------
+  Lantadene_A                -10.14 kcal/mol | LE=0.254 | Lantana camara (introduced)
+  Rutin                       -9.25 kcal/mol | LE=0.215 | Multiple Zimbabwean spp.
+  Guaijaverin                 -8.91 kcal/mol | LE=0.297 | Psidium guajava (Mugawha)
+
+BEST DRUG-LIKE LEAD (0 Lipinski violations, High GI)
+----------------------------------------
+  7-Methyljuglone           MW=188.2, LogP=1.71, LE=0.571
+  PT70_Control_Inhibitor    MW=272.3, LogP=4.04, LE=0.376
+
+TOXICITY SUMMARY
+----------------------------------------
+  Lantadene_A               LD50=251.8 mg/kg | hERG-II=No | AMES=No
+  Rutin                     LD50=310.5 mg/kg | hERG-II=Yes | AMES=No
+  Guaijaverin               LD50=744.7 mg/kg | hERG-II=Yes | AMES=No
+  Quercitrin                LD50=774.5 mg/kg | hERG-II=Yes | AMES=No
+  7-Methyljuglone           LD50=89.9 mg/kg | hERG-II=No | AMES=Yes
+  PT70_Control_Inhibitor    LD50=465.6 mg/kg | hERG-II=No | AMES=No
